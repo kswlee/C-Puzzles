@@ -1,7 +1,5 @@
 C-Puzzles: A software programmer's self training 
 
-http://c-puzzles.kennylee.co 
-
 What is C-Puzzles?
 
 The classical puzzle listed/explained in the book, C 名題精選百則 技巧篇 by Dr. Ching-Kuang Shene (http://www.cs.mtu.edu/~shene/). 
